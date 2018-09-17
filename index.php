@@ -11,6 +11,6 @@
 
 <body>
   <h1>Hello World</h1>
-  <img src='image/dog.jpg'>
+  <img src='images/dog.jpg'>
 </body>
 </html>
