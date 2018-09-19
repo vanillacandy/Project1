@@ -1,6 +1,6 @@
 # Project 1
 + By: Catherine Lin
-+ Production URL: <http://http://p1.vanillacandy.website/> (class example: <http://hello-world.dwa15.me>)
++ Production URL: <http://p1.vanillacandy.website/> 
 
 ## Outside resources
 n/a
