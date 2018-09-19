@@ -11,11 +11,12 @@
 
 <body>
   <h1>About me</h1>
+  <h1>Catherine Lin</h1>
   <img src='images/dog.jpg'>
   <p>
 
-  A software developer with skills of C#, Java, HTML, CSS.
-
+I work as a software developer in South Carolina, Boeing. I work in various projects in different programming languages, and before this I studied in Mathematics in college. 
+Outside of work, my passion is in music, I have played the classical piano for ten more years, and I have played Beethoven, Bach, Liszt, and Debussy...etc. I am still hoping to learn guitar one day and start a band.
   </p>
 
   <?php
