@@ -12,7 +12,7 @@
 <body>
   <h1>About me</h1>
   <h1>Catherine Lin</h1>
-  <img src='images/me.jpg' alt="Smiley face">
+  <img src='images/me.jpg' alt="Smiley face" height="200" width="200">
   <p>
 
 I work as a software developer in South Carolina, Boeing. I work in various projects in different programming languages, and before this I studied in Mathematics in college.
